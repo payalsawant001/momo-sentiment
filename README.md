@@ -1,12 +1,37 @@
-# React + Vite
+# Momo 🤖 Sentiment Analysis Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi there! 👋 This is my **fun little web app** made for teaching 6th graders how computers can understand human feelings.  
+You help **Momo 🤖**, a cute robot, learn how to recognize **Happy, Sad, Angry, or Meh 😐** sentences.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Features
 
-## Expanding the ESLint configuration
+- Fun, colorful UI for kids 🖍️  
+- Storytelling with **Momo the robot** 🤖  
+- Mini exercises to practice moods  
+- Demo where you type your own sentences and Momo tells the mood  
+- Emoji-rich feedback for each action 😊😢😡  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💻 How it works
+
+- Built with **React.js**  
+- Uses **Sentiment npm package** to detect positive, negative, or neutral sentences  
+- Everything is **frontend only**, no backend needed  
+- Exercises and demo show **instant feedback**  
+- Pages:  
+  1. Intro → Meet Momo  
+  2. Exercises → Guess the mood  
+  3. Demo → Type your own sentence  
+  4. Finish → Congrats! 🎉  
+
+---
+
+## 🛠️ Installation / Run Locally
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/payalsawant001/momo-sentiment
