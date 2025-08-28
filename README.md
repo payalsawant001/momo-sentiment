@@ -26,12 +26,11 @@ You help **Momo 🤖**, a cute robot, learn how to recognize **Happy, Sad, Angry
   2. Exercises → Guess the mood  
   3. Demo → Type your own sentence  
   4. Finish → Congrats! 🎉  
-
 ---
 
-## 🛠️ Installation / Run Locally
+## 🌐 Live Demo
 
-1. Clone the repo:
+Check out the hosted web app here:  
 
 ```bash
-git clone https://github.com/payalsawant001/momo-sentiment
+https://momo-sentiment.netlify.app/
